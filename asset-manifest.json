@@ -1,17 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.ad8602db.css",
-    "main.js": "/static/js/main.87efd656.js",
+    "main.css": "/static/css/main.dcf8d93d.css",
+    "main.js": "/static/js/main.a9986d0f.js",
     "static/js/787.1fb29056.chunk.js": "/static/js/787.1fb29056.chunk.js",
+    "static/media/GoodProc.wav": "/static/media/GoodProc.1fb53c832aeb267946b4.wav",
+    "static/media/Wait.wav": "/static/media/Wait.1d853f37f2f1ce273d68.wav",
+    "static/media/Error.wav": "/static/media/Error.a17a47c6d6c222ab3f7c.wav",
+    "static/media/Connect.wav": "/static/media/Connect.65a6ac3ca7e6ccf5dc12.wav",
+    "static/media/InputErr.wav": "/static/media/InputErr.7b85ed4235a7ba87fe2c.wav",
+    "static/media/WalLyo.wav": "/static/media/WalLyo.e54076360e760d2da05b.wav",
+    "static/media/Search.wav": "/static/media/Search.2d1d58fc11937c1eddd1.wav",
+    "static/media/spinner.gif": "/static/media/spinner.e8697d578dd1e1d9c966.gif",
     "static/media/purple_logo.png": "/static/media/purple_logo.dfbae2780b78acbb8211.png",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.ad8602db.css.map": "/static/css/main.ad8602db.css.map",
-    "main.87efd656.js.map": "/static/js/main.87efd656.js.map",
+    "main.dcf8d93d.css.map": "/static/css/main.dcf8d93d.css.map",
+    "main.a9986d0f.js.map": "/static/js/main.a9986d0f.js.map",
     "787.1fb29056.chunk.js.map": "/static/js/787.1fb29056.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad8602db.css",
-    "static/js/main.87efd656.js"
+    "static/css/main.dcf8d93d.css",
+    "static/js/main.a9986d0f.js"
   ]
 }
